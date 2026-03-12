@@ -1,6 +1,4 @@
-/* ========================================
-   MUHAMMAD ALI — MULTI-PAGE ROUTER + INTERACTIONS
-   ======================================== */
+
 (function () {
   'use strict';
 
